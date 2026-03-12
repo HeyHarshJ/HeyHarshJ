@@ -5,6 +5,6 @@ I specialize in turning raw data into actionable business insights using Python,
 
 - 🛠 **Tech Stack:** Python (Pandas, NumPy), SQL (PostgreSQL), Power BI, Excel.
 - 📈 **Latest Project:** [Customer Shopping Behavior Analysis](https://github.com/HeyHarshJ/customer_behavior_analysis)
-- 📫 **LinkedIn:** [itsharshj](https://www.linkedin.com/in/itsharshjainj)
+- 📫 **LinkedIn:** [itsharshjainj](https://www.linkedin.com/in/itsharshjainj)
 
 ---
