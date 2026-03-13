@@ -3,7 +3,7 @@
 ### 📊 Aspiring Data Analyst 
 I specialize in turning raw data into actionable business insights using Python, SQL, and Power BI. 
 
-- 📈 **Latest Project:** [Customer Shopping Behavior Analysis](https://github.com/HeyHarshJ/customer_behavior_analysis)
+- 📈 **Latest Project:** [Zepto-Inventory-Operational-Intelligence](https://github.com/HeyHarshJ/Zepto-Inventory-Operational-Intelligence.git)
 - 📫 **LinkedIn:** [itsharshjainj](https://www.linkedin.com/in/itsharshjainj)
 
 
